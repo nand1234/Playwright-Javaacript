@@ -1,0 +1,35 @@
+{
+  "cookies": [
+    {
+      "name": "_ga",
+      "value": "GA1.2.85907354.1672833215",
+      "domain": ".practicetestautomation.com",
+      "path": "/",
+      "expires": 1707393216.786088,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.2.1009864758.1672833215",
+      "domain": ".practicetestautomation.com",
+      "path": "/",
+      "expires": 1672919616,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gat_gtag_UA_41419453_6",
+      "value": "1",
+      "domain": ".practicetestautomation.com",
+      "path": "/",
+      "expires": 1672833274,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}
